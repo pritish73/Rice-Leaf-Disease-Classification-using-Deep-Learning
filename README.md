@@ -31,6 +31,21 @@ You can download it from Kaggle and follow the preprocessing steps.
 
 ---
 
+## Dataset Sources
+
+The dataset used in this project is a combination of multiple publicly available sources:
+
+1. Rice Leaf Diseases Dataset  
+   https://www.kaggle.com/datasets/vbookshelf/rice-leaf-diseases  
+
+2. Rice Leaf Disease Dataset  
+   https://www.kaggle.com/datasets/shayanriyaz/riceleafs  
+
+3. PlantVillage Dataset (for healthy images)  
+   https://www.kaggle.com/datasets/emmarex/plantdisease  
+
+The datasets were merged, cleaned, and restructured into training, validation, and test sets.
+
 ## Project Structure
 ```
 Rice-Leaf-Disease-Classification/
